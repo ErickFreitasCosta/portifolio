@@ -1,0 +1,10 @@
+#footer-p{
+    display: flex;
+    justify-content: center;
+   
+}
+#footerLetra{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+
+}

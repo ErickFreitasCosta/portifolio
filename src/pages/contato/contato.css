@@ -1,0 +1,37 @@
+@keyframes animacao {
+  0% {
+    background-color: aqua;
+  }
+  50% {
+    background-color: #8257e6;
+  }
+  100% {
+    background-color: green;
+  }
+}
+
+.espaco {
+  padding: 50px;
+}
+.container-contato {
+}
+.icone {
+  color: white;
+  font-size: 50px;
+  animation-direction: alternate;
+}
+.icone:hover {
+  transform: scale(1.1);
+}
+.container-sm {
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  gap: 23px;
+  align-items: center;
+
+  border-radius: 8px;
+
+  animation-name: animacao;
+  animation-duration: 100s;
+}

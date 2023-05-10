@@ -1,0 +1,60 @@
+.containerNav{
+    width: 100vw;
+    height: 10vh;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #212121;
+    
+    position: fixed;
+    border-bottom: 1px solid #8257E6;
+     
+}
+.title-container{
+    width: 30%;
+    margin-right: 5%;
+    
+    display: flex;
+    justify-content: space-evenly;   
+    gap: 10px;
+}
+.h3{
+    color: #fff;
+}
+.h4{
+    color: black;
+}
+.h3:hover{
+    color: #ccc;
+    
+    text-decoration: underline;
+}
+.logo{
+    
+}
+.img-logo{
+    margin-left: 10px;
+    height: 70px;
+    width: 90px;
+}
+@media screen and (max-width:679px){
+    .title-container{
+        background-color: blue;
+        visibility: hidden;
+        
+    }
+    #NAV{
+        
+        visibility: visible;
+    }
+
+}
+@media screen and (min-width:679px){
+    #NAV{
+        
+        visibility: hidden;
+    }
+
+}

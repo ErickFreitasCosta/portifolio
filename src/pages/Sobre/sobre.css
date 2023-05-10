@@ -1,0 +1,31 @@
+.container-sobre {
+  height: 100vh;
+  color: white;
+  padding: 80px;
+}
+.cont {
+  padding: 30px;
+}
+.html {
+  float: left;
+  width: 180px;
+  height: 190px;
+}
+.css {
+  float: right;
+  width: 180px;
+  height: 190px;
+}
+.texto-title-h3 {
+  text-decoration: solid;
+  text-indent: 100px;
+  font-size: 22px;
+}
+.texto-p {
+  text-align: justify;
+  text-indent: 30px;
+
+  font-size: 20px;
+
+  padding: 20px;
+}
