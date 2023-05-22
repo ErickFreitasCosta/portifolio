@@ -20,19 +20,19 @@ function Projetos(){
 
                 <div className="card-container">
                     <div className='card-1'>  
-                        <a href="https://calculadora0800.netlify.app/">
-                            <img src={Logo}/></a>
+                        <a href="https://calculadora0800.netlify.app/" target='_blank'>
+                            <img src={Logo} /></a>
                         <div className='link-card'>
                             
-                            <a href="https://calculadora0800.netlify.app/"> Link</a>
+                            <a href="https://calculadora0800.netlify.app/" target='_blank' > Link</a>
                         </div>
                     </div>
 
                     <div className='card-1'>  
-                        <img src={TelaLogin} className='img-login'/>
+                        <img src={TelaLogin} className='img-login' target='_blank'/>
                         <div className='link-card'>
                             
-                            <a href="https://tela-login-roan.vercel.app/"> Link</a>
+                            <a href="https://tela-login-roan.vercel.app/" target='_blank'> Link</a>
                         </div>
                     </div>
 
@@ -40,17 +40,17 @@ function Projetos(){
                         <img src={LoginPm} className='img-login'/>
                         <div className='link-card'>
                             
-                            <a href="https://login-pmpa-tela.vercel.app/"> Link</a>
+                            <a href="https://login-pmpa-tela.vercel.app/" target='_blank'> Link</a>
                         </div>
                     </div>
 
                     <div className='card-1'>  
-                        <a href="https://botoestyles.netlify.app/">
+                        <a href="https://botoestyles.netlify.app/" target='_blank'>
                             <img src={Botao} className='img-login'/>
                         </a>
                             <div className='link-card'>
                             
-                            <a href="https://botoestyles.netlify.app/"> Link</a>
+                            <a href="https://botoestyles.netlify.app/" target='_blank'> Link</a>
                         </div>
                     </div>
 
@@ -58,7 +58,7 @@ function Projetos(){
                         <img src={EmBreve} className='emBreve'/>
                         <div className='link-card'>
                             
-                            <a href="#"> Link</a>
+                            <a href="#" target='_blank'> Link</a>
                         </div>
                     </div>
 
@@ -66,7 +66,7 @@ function Projetos(){
                         <img src={EmBreve} className='emBreve' />
                         <div className='link-card'>
                             
-                            <a href="#"> Link</a>
+                            <a href="#" target='_blank'> Link</a>
                         </div>
                     </div>  
 

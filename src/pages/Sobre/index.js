@@ -11,7 +11,7 @@ function Sobree() {
       <div className="cont"></div>
 
       <div className="container-s">
-        <h3 className="texto-title-h3">Um pouco sobre</h3>
+        <h3 className="texto-title-h3">Um pouco sobre.</h3>
 
         <p className="texto-p">
           Olá, meu nome é Erick Freitas e eu sou desenvolvedor front-end.
