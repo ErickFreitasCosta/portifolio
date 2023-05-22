@@ -40,7 +40,7 @@ function Sobree() {
           Como voluntário civil no Comando Geral da PM-PA, eu estou envolvido em
           projetos de desenvolvimento front-end, utilizando minhas habilidades
           em HTML, CSS, JS, React e Firebase. Através dessa experiência, tenho a
-          oportunidade de aprender e aprimorar suas habilidades de forma
+          oportunidade de aprender e aprimorar minhas habilidades de forma
           direcionada, obtendo conhecimentos valiosos no campo do web design. A
           presença de orientadores no Comando Geral da PM-PA oferece uma
           vantagem significativa, pois posso contar com o suporte de
