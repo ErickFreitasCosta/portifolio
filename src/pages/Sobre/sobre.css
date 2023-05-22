@@ -20,6 +20,7 @@
   text-decoration: solid;
   text-indent: 100px;
   font-size: 22px;
+  margin-top: 5%;
 }
 .texto-p {
   text-align: justify;
@@ -28,4 +29,5 @@
   font-size: 20px;
 
   padding: 20px;
+  margin-bottom: 5%;
 }

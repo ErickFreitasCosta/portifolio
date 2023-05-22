@@ -1,20 +1,19 @@
 .centralizar-projetos{
-    background-color: black;
+   
     width: 100vw;
-    height: 100vh;
+    height: 100vh;  
 }
 a{
     color: white;
 }
 .centralizar-projetos{
     width: 100vw;
-    height: 100vh;
+    height: 100vh;     
 }
 img{
     height: 320px;
     width: 250px;
     border-radius: 6px;
-
 }
 .title-projetos{
     height: 50px;
@@ -34,12 +33,13 @@ img{
 .card-container{
     height: 500px;
     
+    
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 
-    gap: 10%;
-
+    gap: 9%;
+    
 }
 .link-card{
     width: 450px ;
@@ -52,7 +52,18 @@ img{
     
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
+}
+.link-card1{
+    width: 450px ;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+    background-color: #8257E6;
+    
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
 .card-1{
     display: flex;
@@ -67,10 +78,8 @@ img{
     border: 1px solid #29292E;
 
     margin: 10px;
-    transition: 3s;
-      
+    transition: 3s;    
 }
-
 .img-login{
     width: 450px;
     height: 320px;
@@ -90,6 +99,5 @@ img{
     background-color: #121214;
     border: 1px solid #29292E;
 
-    margin: 10px;
-
+    margin: 10px;  
 }

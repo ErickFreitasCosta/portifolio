@@ -37,7 +37,7 @@ function Home() {
             </p>
           </div>
 
-          <div className="icone-home">
+          <div className="icone-home1">
             <p className="icon-home">
               {" "}
               <i className="fa-brands fa-github cor"></i>
@@ -54,7 +54,7 @@ function Home() {
         </div>
 
         <div className="box2">
-          <img src={EuHome} className="Eu" alt="Erick" />
+          <div className="Fundo1"><img src={EuHome} className="Eu" alt="Erick" /></div>
           <div className="Fundo"></div>
         </div>
       </div>

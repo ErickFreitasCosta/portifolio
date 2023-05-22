@@ -6,7 +6,7 @@ function Contato() {
       <div className="espaco">oi</div>
 
       <div className="container-fluid">
-        <h1> Esssas são minhas redes sociais</h1>
+        <h1>Minhas redes sociais.</h1>
 
         <br />
 

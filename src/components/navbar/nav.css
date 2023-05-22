@@ -14,11 +14,13 @@
 }
 .title-container{
     width: 30%;
-    margin-right: 5%;
+    margin-left: 50%;
+    position: absolute;
+    z-index: 2;
     
     display: flex;
-    justify-content: space-evenly;   
-    gap: 10px;
+    justify-content: space-between;   
+    gap: 15px;
 }
 .h3{
     color: #fff;
