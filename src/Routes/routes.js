@@ -6,6 +6,7 @@ import Sobree from "../pages/Sobre";
 import Projetos from "../pages/projetos";
 import Contato from "../pages/contato";
 import Footer from "../components/footer";
+import Nome from "../components/NavbarRes/novoBar";
 
 
 
@@ -13,7 +14,8 @@ function RoutesAPP(){
   return (
     <div>
         <BrowserRouter>
-        <Navbar/>
+        <Nome/>
+        {/* <Navbar/> */}
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/Sobre" element={<Sobree/>}/>
