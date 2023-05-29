@@ -1,6 +1,7 @@
 import btn from "../script";
 import { Link } from "react-router-dom";
 import '../../index.css'
+import './style.css'
 
 function Nome() {
   
