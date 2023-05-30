@@ -42,9 +42,9 @@ i{
   align-items: center;
   justify-content: space-between;
   padding: 18px 40px;
-  box-shadow:  0 0.1rem 0.5rem white;
+  box-shadow:  0 0.1rem 0.5rem rgba(61,0, 69, 0.9);
   width: 100%;
-  background: rgba(61,0, 69, 0.9);
+  background: #212529;
   
 }
 
@@ -54,7 +54,7 @@ i{
   font-size: 40px;
 }
 span{
-  color: orange;
+  color: #0FC20F;
   font-size: 30px;
 }
 .navigation ul{
@@ -135,7 +135,7 @@ li a:hover{
       width: 70%;
       height: 100%;
       transition: 0.3s;
-      background-color: rgba(61,0, 69, 0.9);
+      background-color:#212529;
       
     }
     button{
@@ -160,6 +160,6 @@ li a:hover{
     }
   
     .h5{
-      color: orange;
+      color: #0FC20F;
     }
   }

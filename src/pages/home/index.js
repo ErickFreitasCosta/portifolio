@@ -13,7 +13,7 @@ function Home() {
         <div className="box1">
           <p className="title-home">
             {" "}
-            <q>HELLO WORLD!</q>, MEU NOME É ERICK FREITAS.{" "}
+            <q>HELLO WORLD!</q> Sou<span className="nome">ERICK FREITAS</span>{" "}
           </p>
           <p className="title-home">Essas são as minhas Skills.</p>
 
