@@ -8,6 +8,7 @@
 a{
     text-decoration: none;
     color: black;
+    color: inherit;
 }
 body{
     background-color:  #2C2C2C;
@@ -64,6 +65,7 @@ span{
 }
 li{
   list-style: none;
+  
 }
 li a{
   color: white;
@@ -72,11 +74,7 @@ li a{
   transition: all 0.5s;
   
 }
-li a:hover{
-  color:black;
-  
-  
-}
+
 .navigation i{
   cursor: pointer;
   font-size: 1.5rem;
