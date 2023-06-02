@@ -56,7 +56,7 @@
     height: 100%;
     border-radius: 5%;  
 
-    transition: 3s linear;
+    transition: 0.5s;
 }
 .Eu:hover{
     transform: translate(-1.5rem, -1.5rem);

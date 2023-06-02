@@ -13,10 +13,13 @@ function Nome() {
             <a href='#' className='logo'> P<span>ortifóli</span>O</a>
   
             <ul className='nav-menu'>
-                  <Link to={'/'} className='h4'>Home</Link>
-                  <Link to={'/Sobre'} className='h5' >Sobre</Link>
-                  <Link to={'/Projeto'} className='h4'>Projetos</Link>
-                  <Link to={'/Contato'} className='h5'>Contato</Link>
+                  <Link to={'/'} className='h4'><p className="nav">Home</p></Link>
+                  <Link to={'/Sobre'} className='h5' ><p className="nav
+                  ">Sobre</p></Link>
+                  <Link to={'/Projeto'} className='h4'><p className="nav
+                  ">Projetos</p></Link>
+                  <Link to={'/Contato'} className='h5'><p className="nav
+                  ">Contato</p></Link>
         
             </ul>
   
